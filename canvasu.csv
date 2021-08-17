@@ -1,0 +1,9 @@
+user_id,login_id,authentication_provider_id,password,first_name,last_name,short_name,email,status
+miras.daulenov,miras.daulenov@narxoz.kz,ldap,,Мирас,Дауленов,Дауленов Мирас,miras.daulenov@narxoz.kz,active
+kanat.kozhakhmet,kanat.kozhakhmet@narxoz.kz,ldap,,Қанат,Қожахмет,Қожахмет Қанат Темірғалыұлы,kanat.kozhakhmet@narxoz.kz,active
+bagashar.zhumazhanov,bagashar.zhumazhanov@narxoz.kz,ldap,,Бағашар,Жұмажанұлы,Бағашар Жұмажанұлы,bagashar.zhumazhanov@narxoz.kz,active
+zhanna.kozhikenova,zhanna.kozhikenova@narxoz.kz,ldap,,Жанна,Кожикенова,Жанна Кожикенова,zhanna.kozhikenova@narxoz.kz,active
+aliya.ospanova,aliya.ospanova@narxoz.kz,ldap,,Әлия,Оспанова,Оспанова Әлия Қанатқызы,aliya.ospanova@narxoz.kz,active
+salkinbaevasn,salkinbaevasn@narxoz.kz,ldap,,Сәуле,Салқынбаева,Салқынбаева Сәуле Нұрланқызы,salkinbaevasn@narxoz.kz,active
+temirlan.nukhitzhan,temirlan.nukhitzhan@narxoz.kz,ldap,,Темірлан,Нухитжан,Нухитжан Темірлан Бейбітұлы,temirlan.nukhitzhan@narxoz.kz,active
+maksim.terebov,maksim.terebov@narxoz.kz,ldap,,Максим,Теребов,Теребов Максим,maksim.terebov@narxoz.kz,active
